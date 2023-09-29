@@ -7,4 +7,4 @@ As of now this project is just getting off the ground and from idea to code. I w
 # Project Updates
 |:calendar: Date|:chart_with_upwards_trend: Update|
 |-|-|
-|2023-09-29|Project is born|
+|2023-09-29|Project inception|
