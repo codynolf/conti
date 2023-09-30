@@ -16,7 +16,8 @@
             "settings": {
                 "workbench.colorTheme": "Visual Studio 2019 Dark",
                 "workbench.iconTheme": "vscode-icons",
-                "workbench.preferredDarkColorTheme": "Default Dark Modern"
+                "workbench.preferredDarkColorTheme": "Default Dark Modern",
+                "vsicons.associations.folders": [{ "icon": "helper", "extensions": ["solution items"] }]
             }
         }
     },
