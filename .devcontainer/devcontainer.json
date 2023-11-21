@@ -2,13 +2,13 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
 {
 	"name": "conti development",
-	"image": "mcr.microsoft.com/devcontainers/dotnet:0-7.0",
+	"image": "mcr.microsoft.com/devcontainers/dotnet:dev-8.0",
 	"customizations":
     {
         "vscode": {
             "extensions": [
                 "ms-dotnettools.csdevkit",
-				"patcx.vscode-nuget-gallery",
+                "patcx.vscode-nuget-gallery",
                 "GitHub.copilot",
                 "nick-rudenko.back-n-forth",
                 "vscode-icons-team.vscode-icons"
