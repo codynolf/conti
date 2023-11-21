@@ -21,6 +21,9 @@
             }
         }
     },
+    "mounts": [
+		"type=bind,source=/home/${localEnv:USER}/.ssh,target=/root/.ssh,readonly"
+	],
     "containerEnv": { 
 		"GIT_EMAIL": "cody.nolf@outlook.com",
 		"GIT_USER": "codynolf"
