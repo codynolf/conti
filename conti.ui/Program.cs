@@ -1,6 +1,9 @@
 using conti.ui.Components;
+using conti.sb;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Configuration.AddEntityConfiguration();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
